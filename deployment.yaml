@@ -15,5 +15,5 @@ spec:
         app: sandeep-deploy
     spec:
       containers:
-      - image: cloudsihmar/takin:latest
+      - image: cloudsihmar/takin:14
         name: pet
