@@ -15,5 +15,5 @@ spec:
         app: sandeep-deploy
     spec:
       containers:
-      - image: cloudsihmar/dummy-pet:4
+      - image: cloudsihmar/dummy-pet:1
         name: pet
